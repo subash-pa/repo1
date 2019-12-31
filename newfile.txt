@@ -1,5 +1,14 @@
 dfsgdfg
 fsdfsdf
+<<<<<<< HEAD
+<<<<<<< HEAD
+new local change
+trail
+=======
+new local change
+>>>>>>> af53f2659bc01538b23fd4ba413f2fa28bf955f6
+=======
 new local change
 trail
 31-12-2019 end
+>>>>>>> 44e469d6fff059a00535652d6b78ff305f1ed2e4
