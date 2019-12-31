@@ -11,4 +11,8 @@ new local change
 new local change
 trail
 31-12-2019 end
+<<<<<<< HEAD
+
+=======
 >>>>>>> 44e469d6fff059a00535652d6b78ff305f1ed2e4
+>>>>>>> 281ff6767c08ed5a4f6966d2a98703be0fbb4237
