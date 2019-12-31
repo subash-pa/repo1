@@ -1,4 +1,8 @@
 dfsgdfg
 fsdfsdf
+<<<<<<< HEAD
 new local change
 trail
+=======
+new local change
+>>>>>>> af53f2659bc01538b23fd4ba413f2fa28bf955f6
